@@ -38,7 +38,7 @@ export default function Hero() {
         <a href="#projects" className="btn-primary">View Projects →</a>
         <a href="#contact" className="btn-outline">Let's Connect</a>
         {/* Apna resume PDF public/Saksham_Resume.pdf mein rakho */}
-        <a href="/Saksham'sresumes.pdf" download className="btn-resume">⬇ Download Resume</a>
+        <a href="/SakshamResume.pdf" download className="btn-resume">⬇ Download Resume</a>
       </div>
 
       <div className="hero-scroll">
