@@ -11,7 +11,7 @@ export default function Education() {
             <div className="edu-school">Madhu Vachaspati Institute of Engineering & Technology, Prayagraj</div>
             <div className="edu-meta">
               <span className="edu-badge">2022 – 2026</span>
-              <span className="edu-badge cgpa">CGPA: 7.4 / 10</span>
+              <span className="edu-badge cgpa">CGPA: 7.5 / 10</span>
             </div>
           </div>
         </div>
